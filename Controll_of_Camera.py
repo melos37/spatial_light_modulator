@@ -2,7 +2,7 @@
 """
 Created on Thu Dec  8 14:44:22 2022
 
-@author: QP
+@author: Hy-Q @NBI, KU
 """
 import instrumental as ins
 import matplotlib.pyplot as plt
