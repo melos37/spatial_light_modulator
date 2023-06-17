@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 23 14:58:42 2023
 
-@author: Alexey Tiranov
-"""
 
 # -*- coding: utf-8 -*-
 """
