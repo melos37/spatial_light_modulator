@@ -23,10 +23,10 @@ The "Data Handling" script was utilized in multiple steps of the process for dat
 Key Steps of the Scanning Process
 The scanning process involved several key steps to characterize and optimize the performance of the SLM. Here is an overview of the main steps:
 
-Initialization and Configuration:
+Initialization and Configuration (code1):
 The primary script initialized the camera and configured the desired zoom level for acquired images. It also allowed the input of parameter values to be scanned, specifying start and stop values and step sizes for each parameter.
 
-Secondary Script Execution:
+Secondary Script Execution (code2):
 The secondary script utilized the specified parameters and saved them in an array for further analysis. It introduced the "SLMScan" class, which encapsulated essential methods for the project.
 
 Establishing Connections and Setting Up:
