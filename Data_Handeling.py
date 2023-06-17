@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Dec  8 16:10:24 2022
+Created on Thu Dec  8 14:44:22 2022
 
-@author: QP
+@author: Hy-Q @NBI, KU
 """
 
 import numpy as np
