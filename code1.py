@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed May 24 14:19:50 2023
+Created on Thu Dec  8 14:44:22 2022
 
-@author: Nikos
+@author: Hy-Q @NBI, KU
 """
 import numpy as np
 from scipy.signal import sawtooth
